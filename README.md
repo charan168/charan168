@@ -7,23 +7,9 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=charan168&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="charan168 trophies" />
-</p>
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan168&show_icons=true&theme=dracula&locale=en&hide_border=false&count_private=true" height="150" alt="stats graph" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan168&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" alt="languages graph" />
-</p>
+
  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan168&theme=dracula&hide_border=false" height="150" alt="streak stats" />
